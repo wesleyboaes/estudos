@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java oo/Aula011/Aula011.iml" filepath="$PROJECT_DIR$/java oo/Aula011/Aula011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java oo/Aula02/Aula02.iml" filepath="$PROJECT_DIR$/java oo/Aula02/Aula02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java oo/Aula03/Aula03.iml" filepath="$PROJECT_DIR$/java oo/Aula03/Aula03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java oo/Aula04/Aula04.iml" filepath="$PROJECT_DIR$/java oo/Aula04/Aula04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java oo/Aula05/Aula05.iml" filepath="$PROJECT_DIR$/java oo/Aula05/Aula05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java oo/Aula06/Aula06.iml" filepath="$PROJECT_DIR$/java oo/Aula06/Aula06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java oo/Aula09/Aula09.iml" filepath="$PROJECT_DIR$/java oo/Aula09/Aula09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java oo/Aula12/Aula12.iml" filepath="$PROJECT_DIR$/java oo/Aula12/Aula12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java oo/Aula13/Aula13.iml" filepath="$PROJECT_DIR$/java oo/Aula13/Aula13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/CalculadoraCursoEmVideo/CalculadoraCursoEmVideo.iml" filepath="$PROJECT_DIR$/java/Programas/CalculadoraCursoEmVideo/CalculadoraCursoEmVideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/CalculadoraIdade/CalculadoraIdade.iml" filepath="$PROJECT_DIR$/java/Programas/CalculadoraIdade/CalculadoraIdade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/CalculadoraSimples/CalculadoraSimples.iml" filepath="$PROJECT_DIR$/java/Programas/CalculadoraSimples/CalculadoraSimples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/Contador01/Contador01.iml" filepath="$PROJECT_DIR$/java/Programas/Contador01/Contador01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/Contador02/Contador02.iml" filepath="$PROJECT_DIR$/java/Programas/Contador02/Contador02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/EquacaoSegundoGrau/EquacaoSegundoGrau.iml" filepath="$PROJECT_DIR$/java/Programas/EquacaoSegundoGrau/EquacaoSegundoGrau.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/JavaNelioAlves/WSintellij/Section08/Estoque/Estoque.iml" filepath="$PROJECT_DIR$/java/JavaNelioAlves/WSintellij/Section08/Estoque/Estoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/JavaNelioAlves/WSintellij/Section09/Ex001/Ex001.iml" filepath="$PROJECT_DIR$/java/JavaNelioAlves/WSintellij/Section09/Ex001/Ex001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/JavaNelioAlves/WSintellij/Section09/Ex002/Ex002.iml" filepath="$PROJECT_DIR$/java/JavaNelioAlves/WSintellij/Section09/Ex002/Ex002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/Exercicio13/Exercicio13.iml" filepath="$PROJECT_DIR$/java/Programas/Exercicio13/Exercicio13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/ExercicioRepita/ExercicioRepita.iml" filepath="$PROJECT_DIR$/java/Programas/ExercicioRepita/ExercicioRepita.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/ExercicioVetor/ExercicioVetor.iml" filepath="$PROJECT_DIR$/java/Programas/ExercicioVetor/ExercicioVetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/JavaNelioAlves/WSintellij/Section08/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/java/JavaNelioAlves/WSintellij/Section08/Exercicios/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/Funcao01/Funcao01.iml" filepath="$PROJECT_DIR$/java/Programas/Funcao01/Funcao01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/Funcao02/Funcao02.iml" filepath="$PROJECT_DIR$/java/Programas/Funcao02/Funcao02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/Numeros/Numeros.iml" filepath="$PROJECT_DIR$/java/Programas/Numeros/Numeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/OperadoresAritmeticos/OperadoresAritmeticos.iml" filepath="$PROJECT_DIR$/java/Programas/OperadoresAritmeticos/OperadoresAritmeticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/OperadoresLogicos/OperadoresLogicos.iml" filepath="$PROJECT_DIR$/java/Programas/OperadoresLogicos/OperadoresLogicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/OperadoresSwing/OperadoresSwing.iml" filepath="$PROJECT_DIR$/java/Programas/OperadoresSwing/OperadoresSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/ProgramaIdade/ProgramaIdade.iml" filepath="$PROJECT_DIR$/java/Programas/ProgramaIdade/ProgramaIdade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/ProgramaMedia/ProgramaMedia.iml" filepath="$PROJECT_DIR$/java/Programas/ProgramaMedia/ProgramaMedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/ProgramaParImpar/ProgramaParImpar.iml" filepath="$PROJECT_DIR$/java/Programas/ProgramaParImpar/ProgramaParImpar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/ProgramaPernas/ProgramaPernas.iml" filepath="$PROJECT_DIR$/java/Programas/ProgramaPernas/ProgramaPernas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/ProjetoFatorial/ProjetoFatorial.iml" filepath="$PROJECT_DIR$/java/Programas/ProjetoFatorial/ProjetoFatorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/ProjetoTriangulo/ProjetoTriangulo.iml" filepath="$PROJECT_DIR$/java/Programas/ProjetoTriangulo/ProjetoTriangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java oo/ProjetoYouTube/ProjetoYouTube.iml" filepath="$PROJECT_DIR$/java oo/ProjetoYouTube/ProjetoYouTube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java oo/ProjetosPessoas/ProjetosPessoas.iml" filepath="$PROJECT_DIR$/java oo/ProjetosPessoas/ProjetosPessoas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/Repeticao01/Repeticao01.iml" filepath="$PROJECT_DIR$/java/Programas/Repeticao01/Repeticao01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/RepeticaoFor/RepeticaoFor.iml" filepath="$PROJECT_DIR$/java/Programas/RepeticaoFor/RepeticaoFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/SomaSwing/SomaSwing.iml" filepath="$PROJECT_DIR$/java/Programas/SomaSwing/SomaSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/JavaNelioAlves/WSintellij/StringFunctions/StringFunctions.iml" filepath="$PROJECT_DIR$/java/JavaNelioAlves/WSintellij/StringFunctions/StringFunctions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/TesteFuncao01/TesteFuncao01.iml" filepath="$PROJECT_DIR$/java/Programas/TesteFuncao01/TesteFuncao01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/TesteFuncao02/TesteFuncao02.iml" filepath="$PROJECT_DIR$/java/Programas/TesteFuncao02/TesteFuncao02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/TesteTipos/TesteTipos.iml" filepath="$PROJECT_DIR$/java/Programas/TesteTipos/TesteTipos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/TiposPrimitivos/TiposPrimitivos.iml" filepath="$PROJECT_DIR$/java/Programas/TiposPrimitivos/TiposPrimitivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/JavaNelioAlves/WSintellij/Section08/TrianguloHeron/TrianguloHeron.iml" filepath="$PROJECT_DIR$/java/JavaNelioAlves/WSintellij/Section08/TrianguloHeron/TrianguloHeron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java oo/UltraEmojiCombat/UltraEmojiCombat.iml" filepath="$PROJECT_DIR$/java oo/UltraEmojiCombat/UltraEmojiCombat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/VerificadorIdadeSwing/VerificadorIdadeSwing.iml" filepath="$PROJECT_DIR$/java/Programas/VerificadorIdadeSwing/VerificadorIdadeSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/Vetor01/Vetor01.iml" filepath="$PROJECT_DIR$/java/Programas/Vetor01/Vetor01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/Vetor02/Vetor02.iml" filepath="$PROJECT_DIR$/java/Programas/Vetor02/Vetor02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/Vetor03/Vetor03.iml" filepath="$PROJECT_DIR$/java/Programas/Vetor03/Vetor03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/Vetor04/Vetor04.iml" filepath="$PROJECT_DIR$/java/Programas/Vetor04/Vetor04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/Vetor05/Vetor05.iml" filepath="$PROJECT_DIR$/java/Programas/Vetor05/Vetor05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Programas/VotacaoSwing/VotacaoSwing.iml" filepath="$PROJECT_DIR$/java/Programas/VotacaoSwing/VotacaoSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/estudos.iml" filepath="$PROJECT_DIR$/.idea/estudos.iml" />
+    </modules>
+  </component>
+</project>
