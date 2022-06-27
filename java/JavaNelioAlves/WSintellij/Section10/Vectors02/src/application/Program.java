@@ -19,7 +19,7 @@ public class Program {
 
         double sum = 0.0;
 
-        for (int i = 0; i < n; i++){
+        for (int i = 0; i < vect.length; i++){
             sc.nextLine(); /*Para consumir a quebra de linha*/
 
             System.out.printf("Type the name of the product %d: %n", i + 1);
@@ -33,7 +33,7 @@ public class Program {
             sum += vect[i].getPrice(); /*Somatório, pegando apenas o preço*/
         }
 
-        double avg = sum / n; /*Média*/
+        double avg = sum / vect.length; /*Média*/
 
         System.out.printf("Average price = $%.2f%n", avg);
 
