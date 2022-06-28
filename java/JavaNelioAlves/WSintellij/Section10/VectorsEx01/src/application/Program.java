@@ -35,14 +35,14 @@ public class Program {
 
             vect[room] = new Rent(name, email);
         }
-        
+
         System.out.println("Busy rooms: ");
         for (int i = 0; i < 10; i++) {
             if (vect[i] != null) {
                 System.out.println(i + ": " + vect[i]);
             }
         }
-
+        
         sc.close();
     }
 }
